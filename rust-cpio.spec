@@ -5,8 +5,8 @@
 %global crate cpio
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        0.4.1
+Release:        1%{?dist}
 Summary:        API for creating CPIO archives
 
 # Upstream license specification: MIT
